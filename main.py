@@ -125,7 +125,19 @@ Mobile_5G = {
         "6." : "N30,000 for 200GB",
         "7." : "N20,000 for 100GB",
         "0." : "Back"
+        }
+YouTube = {
+        "1." : "Weekly Plan",
+        "2." : "Monthly Plan",
+        "0." : "Back"
+        }
 
+Manage_Data = {
+        "1." : "View Active Data Bundle",
+        "2." : "Opt in for Auto renewal",
+        "3." : "Cancel Auto renewal",
+        "4." : "Deal Zone Offers",
+        "0." : "Back"
         }
 
 
