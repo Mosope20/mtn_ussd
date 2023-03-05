@@ -198,7 +198,58 @@ TikTok = {
         "0." : "Back"
 }
 
+Ayoba = {
+        "1." : "N25 for 25MB/1 day",
+        "2." : "N50 for 50MB/7 days",
+        "3." : "N150 for 150MB/30 days",
+        "0." : "Back"
+}
 
+All_Social = {
+        "1." : "Daily @ N50 for 150MB",
+        "2." : "Weekly @ N100 for 350MB",
+        "3." : "Monthly @ N250 for 1GB",
+        "0." : "Back"
+}
+
+You_Ins_Tik = {
+        "1." : "Daily @ N100 for 350MB",
+        "0." : "Back"
+}
+
+Opera_Mini = {
+        "1." : "N20MB/25MB/1 day",
+        "2." : "N50/100MB/7 days",
+        "3." : "N100/300MB/30 days",
+        "0." : "Back"
+}
+
+Social_Mega = {
+        "1." : "750MB for N200(3 days)",
+        "2." : "1GB for N300(7 days)",
+        "0." : "Back"
+}
+
+Two_Go = {
+        "1." : "Daily @ N25 for 25MB",
+        "2." : "Weekly @ N50 for 50MB",
+        "3." : "Monthly @ N150 for 150MB",
+        "0." : "Back"
+}
+
+We_Chat = {
+        "1." : "Daily @ N25 for 25MB",
+        "2." : "Weekly @ N50 for 50MB",
+        "3." : "Monthly @ N150 for 150MB",
+        "0." : "Back"
+}
+
+Eskimi = {
+        "1." : "Daily @ N25 for 25MB",
+        "2." : "Weekly @ N50 for 50MB",
+        "3." : "Monthly @ N150 for 150MB",
+        "0." : "Back"
+}
 
 
 dial = input("Dial:> ")
