@@ -251,7 +251,7 @@ Eskimi = {
         "0." : "Back"
 }
 
-
+#RESPONSIVE CODE
 dial = input("Dial:> ")
 
 if dial == "*131#":
