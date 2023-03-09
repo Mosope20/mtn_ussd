@@ -169,21 +169,21 @@ SocialBundle= {
         "12" : "Eskimi",
         "0." : "Back"
     }
-
+#option (1) from SocialBundle
 WhatsApp = {
         "1." : "Daily @ N25 for 25MB",
         "2." : "Weekly @ N50 for 50MB",
         "3." : "Monthly @ N150 for 150MB",
         "0." : "Back"
 }
-
+#option (2) from SocialBundle
 Facebook = {
         "1." : "Daily @ N25 for 25MB",
         "2." : "Weekly @ N50 for 50MB",
         "3." : "Monthly @ N150 for 150MB",
         "0." : "Back"
 }
-
+#option (3) from SocialBundle
 Instagram = {
         "1." : "N100 for 250MB/1 day",
         "2." : "N100 for 350MB",
@@ -191,59 +191,59 @@ Instagram = {
         "4." : "N200 for 1GB/3-days",
         "0." : "Back"
 }
-
+#option (4) from SocialBundle
 TikTok = {
         "1." : "N50 for 200MB/1 day",
         "2." : "N350 for 2GB/7 days",
         "0." : "Back"
 }
-
+#option (5) from SocialBundle
 Ayoba = {
         "1." : "N25 for 25MB/1 day",
         "2." : "N50 for 50MB/7 days",
         "3." : "N150 for 150MB/30 days",
         "0." : "Back"
 }
-
+#option (6) from SocialBundle
 All_Social = {
         "1." : "Daily @ N50 for 150MB",
         "2." : "Weekly @ N100 for 350MB",
         "3." : "Monthly @ N250 for 1GB",
         "0." : "Back"
 }
-
+#option (7) from SocialBundle
 You_Ins_Tik = {
         "1." : "Daily @ N100 for 350MB",
         "0." : "Back"
 }
-
+#option (8) from SocialBundle
 Opera_Mini = {
         "1." : "N20MB/25MB/1 day",
         "2." : "N50/100MB/7 days",
         "3." : "N100/300MB/30 days",
         "0." : "Back"
 }
-
+#option (9) from SocialBundle
 Social_Mega = {
         "1." : "750MB for N200(3 days)",
         "2." : "1GB for N300(7 days)",
         "0." : "Back"
 }
-
+#option (10) from SocialBundle
 Two_Go = {
         "1." : "Daily @ N25 for 25MB",
         "2." : "Weekly @ N50 for 50MB",
         "3." : "Monthly @ N150 for 150MB",
         "0." : "Back"
 }
-
+#option (11) from SocialBundle
 We_Chat = {
         "1." : "Daily @ N25 for 25MB",
         "2." : "Weekly @ N50 for 50MB",
         "3." : "Monthly @ N150 for 150MB",
         "0." : "Back"
 }
-
+#option (12) from SocialBundle
 Eskimi = {
         "1." : "Daily @ N25 for 25MB",
         "2." : "Weekly @ N50 for 50MB",
