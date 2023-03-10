@@ -251,6 +251,52 @@ Eskimi = {
         "0." : "Back"
 }
 
+
+#option(2) from first_dict
+Balance_Check = {
+
+}
+Roaming = {
+        "1." : "TravelPass Plans",
+        "2." : "Data Hybrid",
+        "3." : "Inflight Roaming Data",
+        "4." : "Free incoming roaming call",
+        "5." : "Int\'l Calling Bundle",
+        "6." : "Roaming Balance Check",
+        "0." : "Back"
+}
+borrow = {
+        "1." : "Borrow Airtime",
+        "2." : "Borrow Data",
+        "3." : "Recharge",
+        "0." : "Back"
+}
+
+gift_data = {
+        "1." : "Transfer from Data Balance",
+        "2." : "Buy for a Friend",
+        "3." : "Request from a Friend",
+        "4." : "View Pending Request",
+        "0." : "Back",
+}
+
+video_packs = {
+        "1." : "YouTube Video Packs",
+        "2." : "StarTimes Video Packs",
+        "3." : "1GB (YouTube Only) + 500MB (Data access)",
+        "4." : "Showmax Mobile",
+        "0." : "Back"
+}
+
+Data_deals = {
+        "1." : "TopDeal4ME",
+        "2." : "Data4ME",
+        "3." : "Recharge4ME",
+        "4." : "Combo4ME",
+        "5." : "VAS4ME",
+        "0." : "Back"
+}
+
 #RESPONSIVE CODE
 dial = input("Dial:> ")
 
